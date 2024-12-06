@@ -1,0 +1,30 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.container-user-not-found {
+  background: rgb(255, 106, 106);
+  color: white;
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 2%;
+  border-radius: 12px;
+}
+
+.container-user-found {
+  background: rgb(234, 234, 234);
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 4%;
+  border-radius: 12px;
+}
