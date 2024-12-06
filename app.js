@@ -15,7 +15,6 @@ function fetchUser() {
         document.getElementById("userData").style.display = "none";
         return;
       } else {
-        // console.log("Found");
         printUser(data);
       }
     })
